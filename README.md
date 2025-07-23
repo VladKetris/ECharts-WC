@@ -1,7 +1,3 @@
-Here's the English version of your README:
-
----
-
 # **ECharts Web Component (React-based)**  
 
 🚀 **A Web Component wrapped in a React component** for easy use of the [Apache ECharts](https://echarts.apache.org/) library with theme support, reactive updates, and extended capabilities.  
